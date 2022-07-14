@@ -1,0 +1,49 @@
+*
+{
+    
+    padding:0px;
+}
+body{
+   height: 60vw;
+    background-image:url("./image dj1.jpg");
+    background-size: 100% 100%;
+}
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    text-shadow:3px 0 #DA0463
+
+}
+.drum{
+    outline:none;
+    border:10px solid #DA0463;
+    font-size:5rem;
+    line-height:2;
+    font-weight:900;
+    color:#DA0463;
+    text-shadow: 3px 0#dbedf3;
+    border-radius:15px;
+    display:inline-block;
+    width:150px;
+    height:150px;
+    text-Align:center;
+    margin:10px;
+    background-color:white;
+  
+   
+}
+
+kbd{
+    display:rgb(132, 255, 0);
+    font-size: 5rem;
+    }
+    footer{
+        color:#dbedf3;
+        fon-family:sans-serif;
+    }
+    div{
+        align-items: center;
+    }
+    footer{
+margin :200px,100px;
+    }
